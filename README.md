@@ -5,9 +5,9 @@
 
 ---
 
-## 🎬 JavaScript Vibes 🎬
+## 💻 JavaScript Vibes 💻
 
-![JavaScript Vibes](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F464785624049736210%2F&psig=AOvVaw3H8nvWkL58J0YYYioQee8z&ust=1747591416522000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjlsbyLq40DFQAAAAAdAAAAABAE)
+![JavaScript Illustration](https://i.pinimg.com/736x/83/e8/5d/83e85deb149ab7ea1822280107140809.jpg )
 
 🧠 _When you finally understand closures... magic happens._ ✨
 

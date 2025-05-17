@@ -5,6 +5,14 @@
 
 ---
 
+## 🎬 JavaScript Vibes 🎬
+
+![JavaScript Vibes](https://media.giphy.com/media/YOUR-GIPHY-URL/giphy.gif )
+
+🧠 _When you finally understand closures... magic happens._ ✨
+
+---
+
 ## 🌈 My Progress So Far 🚀  
 
 ✅ **Workshops/Labs Completed:** 18 of ~60  

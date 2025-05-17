@@ -112,12 +112,5 @@
 
 ---
 
-## 💪 Keep Going! 🙌  
-
-🚀 Every lab and workshop is a step toward becoming a confident developer.  
-🌟 You're doing amazing — keep building, keep learning, and never stop coding!
-
----
-
 ### 🎉 Made with ❤️ by Preksha Barjatya  
 ☕ Code. Learn. Repeat.
